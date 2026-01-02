@@ -14,16 +14,14 @@
 
 Hi, I’m **Raushan Tiwari** — a **Full-Stack Developer** passionate about building scalable, user-centric web applications and exploring modern **DevOps & Cloud** technologies.
 
-- 💻 MERN Stack Developer
-- 🚀 Open-source enthusiast
-- 🌱 Continuous learner
-- 📍 India 🇮🇳
+💻 MERN Stack Developer
+🚀 Open-source enthusiast
+🌱 Continuous learner
+📍 India 🇮🇳
 
 ---
 
 ## 🛠️ Tech Stack & Tools
-
-<h2>🛠️ Tech Stack & Tools</h2>
 
 <table width="100%">
   <tr>
