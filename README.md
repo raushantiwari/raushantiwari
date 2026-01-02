@@ -14,96 +14,138 @@
 
 Hi, I’m **Raushan Tiwari** — a **Full-Stack Developer** passionate about building scalable, user-centric web applications and exploring modern **DevOps & Cloud** technologies.
 
-💻 MERN Stack Developer
-🚀 Open-source enthusiast
-🌱 Continuous learner
-📍 India 🇮🇳
+- 💻 MERN Stack Developer
+- 🚀 Open-source enthusiast
+- 🌱 Continuous learner
+- 📍 India 🇮🇳
 
 ---
 
-## 🛠️ Tech Stack & Tools
+<h2 align="center"><img src="Assests/code.gif" height="20"/>  My Tech Stack  <img src="Assests/code.gif" height="20"/></h2>
 
-<table width="100%">
-  <tr>
-    <th align="left">Category</th>
-    <th align="left">Technologies</th>
-  </tr>
+Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My Socials. Make Sure you Follow me on Socials So we can Connect and Build a Better Network 🤝🏻💭
 
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=js" height="28"/>
-      <img src="https://skillicons.dev/icons?i=ts" height="28"/>
-      <img src="https://skillicons.dev/icons?i=php" height="28"/>
-      <img src="https://skillicons.dev/icons?i=python" height="28"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react" height="28"/>
-      <img src="https://skillicons.dev/icons?i=nextjs" height="28"/>
-      <img src="https://skillicons.dev/icons?i=tailwind" height="28"/>
-      <img src="https://skillicons.dev/icons?i=webpack" height="28"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs" height="28"/>
-      <img src="https://skillicons.dev/icons?i=express" height="28"/>
-      <img src="https://skillicons.dev/icons?i=postman" height="28"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql" height="28"/>
-      <img src="https://skillicons.dev/icons?i=mongodb" height="28"/>
-      <img src="https://skillicons.dev/icons?i=redis" height="28"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>DevOps & Cloud</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker" height="28"/>
-      <img src="https://skillicons.dev/icons?i=jenkins" height="28"/>
-      <img src="https://skillicons.dev/icons?i=githubactions" height="28"/>
-      <img src="https://skillicons.dev/icons?i=aws" height="28"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>Messaging & Monitoring</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=kafka" height="28"/>
-      <img src="https://skillicons.dev/icons?i=grafana" height="28"/>
-      <img src="https://skillicons.dev/icons?i=prometheus" height="28"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git" height="28"/>
-      <img src="https://skillicons.dev/icons?i=github" height="28"/>
-      <img src="https://skillicons.dev/icons?i=vscode" height="28"/>
-      <img src="https://skillicons.dev/icons?i=postman" height="28"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>Others</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=linux" height="28"/>
-      <img src="https://skillicons.dev/icons?i=pnpm" height="28"/>
-      <img src="https://skillicons.dev/icons?i=arduino" height="28"/>
-    </td>
-  </tr>
+<table>
+  <div style="display: flex; align-items: flex-start; align: center">
+    <table align="center">
+      <!-- ========== ROW 1 — LANGUAGES ========== -->
+      <tr>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" width="40" height="40" />
+          <br>JavaScript
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="40" height="40" />
+          <br>TypeScript
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=php" width="40" height="40" />
+          <br>PHP
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" />
+          <br>React
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=next" width="40" height="40" />
+          <br>Next.js
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" />
+          <br>Tailwind
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="40" height="40" />
+          <br>Webpack
+        </td>
+      </tr>
+      <!-- ========== ROW 2 — BACKEND + DB ========== -->
+      <tr>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" />
+          <br>Node.js
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=express" width="40" height="40" />
+          <br>Express.js
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="40" height="40" />
+          <br>Redux
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" height="60" />
+          <br>REST API
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" />
+          <br>MySQL
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" />
+          <br>MongoDB
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=redis" width="40" height="40" />
+          <br>Redis
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=kafka" width="40" height="40" />
+          <br>Kafka
+        </td>
+      </tr>
+      <!-- ========== ROW 3 — DEVOPS + TOOLS ========== -->
+      <tr>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" height="60" />
+          <br>Docker
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40" />
+          <br>Jenkins
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" />
+          <br>G-Actions
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="40" height="40" />
+          <br>AWS
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=git" width="40" height="40" />
+          <br>Git
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=github" width="40" height="40" />
+          <br>GitHub
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" />
+          <br>VS Code
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" />
+          <br>Postman
+        </td>
+      </tr>
+      <!-- ========== ROW 4 — OS + OTHER ========== -->
+      <tr>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=pnpm" width="40" height="40" />
+          <br>pnpm
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=arduino" width="40" height="40" />
+          <br>Arduino
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" />
+          <br>Linux
+        </td>
+      </tr>
+    </table>
+  </div>
 </table>
 
 ## 🔥 Currently Working On
@@ -154,7 +196,10 @@ Hi, I’m **Raushan Tiwari** — a **Full-Stack Developer** passionate about bui
 
 ---
 
-<h2 align="center">🤝 Connect With Me</h2>
+<!---snake gif Available in Assests-->
+ <img width="1000" src="Assests/github-snake.svg" alt="snake"/>
+
+### Connect With Me <img  src="Assests/Eye.gif" height="35"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raushantiwari" target="_blank">
@@ -175,5 +220,5 @@ Hi, I’m **Raushan Tiwari** — a **Full-Stack Developer** passionate about bui
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" />
+  <img src="Assests/divider1.png">
 </p>
