@@ -4,6 +4,10 @@
 
 <h2 align="center">Code. Build. Ship. 🚀</h2>
 
+<p align="center">
+  Full-Stack Developer | MERN | DevOps & Cloud Enthusiast
+</p>
+
 ---
 
 ## 👋 About Me
@@ -19,11 +23,16 @@ Hi, I’m **Raushan Tiwari** — a **Full-Stack Developer** passionate about bui
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,webpack,cpp,nodejs,express,redux,mysql,mongodb,redis,kafka,docker,jenkins,githubactions,aws,git,github,vscode,postman,pnpm,arduino,linux&perline=8" />
-</p>
-
-> ✅ Cleaner, responsive & mobile-friendly (better than large tables)
+| Category                   | Technologies                              |
+| -------------------------- | ----------------------------------------- |
+| **Languages**              | JavaScript, TypeScript, PHP, Python       |
+| **Frontend**               | React, Next.js, Tailwind CSS, Webpack     |
+| **Backend**                | Node.js, Express.js, REST APIs            |
+| **Databases**              | MySQL, MongoDB, Redis                     |
+| **DevOps & Cloud**         | Docker, Jenkins, GitHub Actions, AWS      |
+| **Messaging & Monitoring** | Kafka, Grafana, Prometheus                |
+| **Tools**                  | Git, GitHub, VS Code, Postman             |
+| **Others**                 | Linux, pnpm, Arduino                      |
 
 ---
 
@@ -36,38 +45,34 @@ Hi, I’m **Raushan Tiwari** — a **Full-Stack Developer** passionate about bui
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raushan-fullstack&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=raushan-fullstack&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushan-fullstack&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://raushantiwari.dev">
     <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/raushantiwari">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:raushan.fullstack@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" />
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raushan-fullstack&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raushan-fullstack&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushan-fullstack&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
