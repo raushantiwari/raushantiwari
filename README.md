@@ -163,27 +163,20 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=raushan-fullstack&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="GitHub Stats"
-  />
-</p>
+<!--Github Profile Stats--->
+
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
+
+<div align=center>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=raushan-fullstack&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=raushantiwari&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true"  width="48%"/>
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=raushantiwari&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&sideNums=00bfbf&datesside=00bfbf&Labelscurr=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&border=c9d1d9&hide_border=true"  width="48%"/>
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushan-fullstack&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="Top Languages"
-  />
+  <p align="center">
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=raushantiwari&hide=HTML&langs_count=8&layout=compact&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true"width="40%"/> 
 </p>
-
+<!-- <img src="Assests/CLine.gif"> -->
 <!----Profile Views--->
          
 <h2 align="center"><img src="Assests/Follow.gif" alt="Robot" width="45"/> Profile Insights <img src="Assests/Follow.gif" alt="Robot" width="45"/></h2>
@@ -199,7 +192,7 @@ src="https://img.shields.io/github/followers/raushantiwari?logo=github&style=for
 
 <div>
     <a href="https://github.com/raushantiwari">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=raushantiwari&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Raushan\'s%20Github%20Contribution%20Graph%20" width="96%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=raushantiwari&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Raushan's%20Github%20Contribution%20Graph%20" width="96%" alt="activity graph">
     </a>
 </div>
 
